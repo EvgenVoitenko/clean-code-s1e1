@@ -1,0 +1,10 @@
+{
+  "editor.tabSize": 2,
+  "editor.trimAutoWhitespace": false,
+  "editor.unusualLineTerminators": "off",
+  "editor.useTabStops": false,
+  "editor.detectIndentation": false,
+  "editor.insertSpaces": true,
+  "editor.formatOnSave": false,
+  "editor.formatOnSaveMode": "modifications"
+}
